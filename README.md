@@ -1,4 +1,4 @@
-# ShopSmart 🛒
+# Clothes E-Commerce 🛒
 
 A modern, elegant e-commerce mobile application built with Flutter that provides a seamless shopping experience with a clean and intuitive user interface.
 
