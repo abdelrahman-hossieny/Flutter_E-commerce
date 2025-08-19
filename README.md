@@ -5,9 +5,11 @@ A modern, elegant e-commerce mobile application built with Flutter that provides
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/login_screen.png" alt="Login Screen" width="250" height="500">
-  <img src="screenshots/signup_screen.png" alt="Sign Up Screen" width="250" height="500">
-  <img src="screenshots/home_screen.png" alt="Home Screen" width="250" height="500">
+  <img src="screenshots/sign_in.png" alt="Login Screen" width="250" height="500">
+  <img src="screenshots/sign up.png" alt="Sign Up Screen" width="250" height="500">
+  <img src="screenshots/home.png" alt="Home Screen" width="250" height="500">
+  <img src="screenshots/cart.png" alt="cart Screen" width="250" height="500">
+  <img src="screenshots/Item_Details.png" alt="Item_Details Screen" width="250" height="500">
 </div>
 
 ## ✨ Features
